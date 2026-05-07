@@ -11,7 +11,7 @@ A complete end-to-end fraud detection project built on the Kaggle Credit Card Fr
 * Production-style training pipeline
 
 Dataset:
-urlKaggle Credit Card Fraud Detection Dataset[https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+Kaggle Credit Card Fraud Detection Dataset [https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ---
 
